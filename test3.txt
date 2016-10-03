@@ -1,3 +1,5 @@
 test3
 
 edit test3
+
+test iv.	Rebase trên cùng branch1
